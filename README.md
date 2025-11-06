@@ -2,11 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-# 👋 Olá, eu sou o Bruno Henrique Ballico Aparecido
+# Olá, eu sou o Bruno Henrique Ballico Aparecido
 
 Tenho 22 anos e sou natural de **São Sebastião da Grama - SP**.  
 Concluí o ensino médio na **E.E. Dona Geny Gomes** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNIP**.  
-
 Sou **apaixonado por tecnologia** e gosto de transformar ideias em projetos reais.  
 Trabalho criando **layouts para empresas** e desenvolvendo **sites em HTML**, unindo **criatividade e funcionalidade** para entregar resultados modernos e bem estruturados.  
 
@@ -158,7 +157,7 @@ Estou sempre buscando aprender mais e aprimorar minhas habilidades na área de *
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoballico&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoballico&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
